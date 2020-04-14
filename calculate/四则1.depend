@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1586866551 source:e:\2020软件工程\小作业\四则1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"head.h"
+
+1586704713 e:\2020软件工程\小作业\四则1\head.h
+
+1586448266 e:\2020软件工程\小作业\四则1\gcd.cpp
+	<stdio.h>
+
+1586684128 e:\2020软件工程\小作业\四则1\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1586521225 source:e:\2020杞欢宸ョ▼\灏忎綔涓歕鍥涘垯1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"head.h"
+	"function.c"
+
+1586515448 e:\2020杞欢宸ョ▼\灏忎綔涓歕鍥涘垯1\head.h
+
+1586519814 e:\2020杞欢宸ョ▼\灏忎綔涓歕鍥涘垯1\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
+1586855524 source:e:\2020软件工程\小作业\四则1\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"head.h"
+
